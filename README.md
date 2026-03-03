@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 LangGraph Multi-Tool AI Agent Chatbot
 
 An advanced AI-powered multi-tool chatbot built using **LangGraph**, **OpenAI GPT-4.1-mini**, and **Streamlit**, capable of handling real-world tasks such as:
@@ -142,6 +142,3 @@ AI/ML Engineer | GenAI Enthusiast
 ## ⭐ If You Like This Project
 
 Star the repository and connect with me on LinkedIn.
-=======
-# LangGraph-Multi-Tool-AI-Agent-Chatbot
->>>>>>> c349bf19264b2dd6adfafadf1380bd3bf4cf08e3
