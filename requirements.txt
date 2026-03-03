@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+python-dotenv
+langchain-chroma
+sentence-transformers
+faiss-cpu
+youtube-transcript-api
+langgraph
+streamlit
+langgraph-checkpoint-sqlite
